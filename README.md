@@ -1,4 +1,4 @@
-# EicarTest  -  a .bat script  of  eicar.txt file.
+# EicarTest  v2 -  a .bat script  of  eicar.txt file.
 <p> a .bat script  of  eicar.txt file. Please use this for detection function monitoring with antivirus software or EDR solutions. It works in both Japanese and English environments.<br>
 Output Eicar.txt in filename of "Eicartest&ltYYYYMMDD_HHMMSS&gt.txt". <br>
 <br>  
