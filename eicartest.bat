@@ -1,6 +1,6 @@
 set fileprefix=Eicartest
 set filepostfix=.txt
-set text1=X5O!P%@AP[4\PZX54(P^^^^)7CC)7}$
+set text1=X5O!P%%@AP[4\PZX54(P^^^^)7CC)7}$
 set text2=EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 set time2=%time: =0%
 
